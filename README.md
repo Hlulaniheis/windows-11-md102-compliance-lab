@@ -26,7 +26,7 @@ Windows 11 VM → Entra ID Join → Intune Enrollment → Compliance Policy → 
 
 ## 📸 Proof of Compliance
 
-![Device Compliant](screenshots/03-device-compliant.png)
+![Device Compliant](screenshots/23-device-compliant-final.png)
 
 ## 📋 Step-by-Step Process
 
@@ -58,21 +58,38 @@ Windows 11 VM → Entra ID Join → Intune Enrollment → Compliance Policy → 
 
 ## 📂 Repository Structure
 
-    windows-11-md102-compliance-lab/
-    ├── README.md
-    ├── screenshots/
-    │   ├── 01-device-enrolled.png
-    │   ├── 02-compliance-policy.png
-    │   ├── 03-device-compliant.png
-    │   ├── 04-conditional-access.png
-    │   └── 05-policy-active.png
-    └── scripts/
-        └── force-sync.ps1
+windows-11-md102-compliance-lab/
+├── README.md
+├── screenshots/
+│ ├── 01-create-policy-start.png
+│ ├── 02-policy-basics.png
+│ ├── 03-device-health.png
+│ ├── 04-device-properties.png
+│ ├── 05-defender-settings.png
+│ ├── 06-policy-assignments.png
+│ ├── 07-review-create.png
+│ ├── 08-actions-noncompliance.png
+│ ├── 09-bitlocker-recovery-key.png
+│ ├── 10-bitlocker-encrypt-used-space.png
+│ ├── 11-bitlocker-new-encryption-mode.png
+│ ├── 12-bitlocker-system-check.png
+│ ├── 13-bitlocker-encrypting.png
+│ ├── 14-compliance-policy-status.png
+│ ├── 15-compliance-policy-list.png
+│ ├── 16-compliance-settings-summary.png
+│ ├── 17-entra-id-devices.png
+│ ├── 18-access-work-school.png
+│ ├── 19-mdm-mobility-settings.png
+│ ├── 20-mdm-url-populated.png
+│ ├── 21-device-noncompliant.png
+│ ├── 22-device-compliant.png
+│ ├── 23-device-compliant-final.png
+│ ├── 24-conditional-access-policies.png
+│ ├── 25-conditional-access-policy-details.png
+│ └── 26-device-list-compliant.png
 
-## 👨‍💻 Author
+👨‍💻 Author
+Hlulani Chavalala — (https://github.com/Hlulaniheis)
 
-Hlulani Chavalala — [(https://github.com/Hlulaniheis)]
-
-## 📅 Date
-
+📅 Date
 July 2026
